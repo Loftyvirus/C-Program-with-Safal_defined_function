@@ -22,6 +22,8 @@ As a ritual of uploading codes in repository and result in readme section.</p>
 </br>
 <b>fibonacci baby</b></br>![Screenshot (113)](https://user-images.githubusercontent.com/99072350/161581878-505705ef-b766-499e-9f0c-235665e4cb02.png)
 </br>
+<b>[2,5,8,11,...,n]</b></br>![Screenshot (114)](https://user-images.githubusercontent.com/99072350/161584686-309827eb-ed29-4c38-a3a1-0685326871f6.png)
+
 
 
 
