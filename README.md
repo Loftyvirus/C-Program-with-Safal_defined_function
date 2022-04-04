@@ -20,6 +20,9 @@ As a ritual of uploading codes in repository and result in readme section.</p>
 <b>SUM TO NTH TERM</b></br>![Screenshot (111)](https://user-images.githubusercontent.com/99072350/161574587-eb8fa3a5-015c-4dc6-ad44-a109377dbe06.png)
 </br><b>Sum of nth even number</b></br>![Screenshot (112)](https://user-images.githubusercontent.com/99072350/161576336-fa76ba43-ca0a-4f5a-a573-003986cf12d6.png)
 </br>
+<b>fibonacci baby</b></br>![Screenshot (113)](https://user-images.githubusercontent.com/99072350/161581878-505705ef-b766-499e-9f0c-235665e4cb02.png)
+</br>
+
 
 
 
