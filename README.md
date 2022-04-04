@@ -16,7 +16,10 @@ As a ritual of uploading codes in repository and result in readme section.</p>
 <b>Recursive method</b></br>![Screenshot (108)](https://user-images.githubusercontent.com/99072350/161567080-7547af6f-c34b-4db6-96f8-3c7f3ba9bb7e.png)
 </br><b>C PROGRAM TO FIND THE AREA OF RECTANGLE<b></br>
 ![Screenshot (109)](https://user-images.githubusercontent.com/99072350/161569572-d5720ec8-65ec-4363-b710-7fe8a43bd791.png)</br>
-![Screenshot (110)](https://user-images.githubusercontent.com/99072350/161569589-86fa4c2f-4348-4e9a-9a6d-f553d679d9d8.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/99072350/161569589-86fa4c2f-4348-4e9a-9a6d-f553d679d9d8.png)</br>
+<b>SUM TO NTH TERM</b></br>![Screenshot (111)](https://user-images.githubusercontent.com/99072350/161574587-eb8fa3a5-015c-4dc6-ad44-a109377dbe06.png)
+</br>
+
 
 
 
