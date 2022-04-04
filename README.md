@@ -18,6 +18,7 @@ As a ritual of uploading codes in repository and result in readme section.</p>
 ![Screenshot (109)](https://user-images.githubusercontent.com/99072350/161569572-d5720ec8-65ec-4363-b710-7fe8a43bd791.png)</br>
 ![Screenshot (110)](https://user-images.githubusercontent.com/99072350/161569589-86fa4c2f-4348-4e9a-9a6d-f553d679d9d8.png)</br>
 <b>SUM TO NTH TERM</b></br>![Screenshot (111)](https://user-images.githubusercontent.com/99072350/161574587-eb8fa3a5-015c-4dc6-ad44-a109377dbe06.png)
+</br><b>Sum of nth even number</b></br>![Screenshot (112)](https://user-images.githubusercontent.com/99072350/161576336-fa76ba43-ca0a-4f5a-a573-003986cf12d6.png)
 </br>
 
 
