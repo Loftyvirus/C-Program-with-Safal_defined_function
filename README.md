@@ -7,4 +7,6 @@ Basically, I have done by c program in 11th standard but with predefined functio
 ![Screenshot (105)](https://user-images.githubusercontent.com/99072350/161551742-50f80257-7899-4dd9-9ef6-8b16b1806024.png)
 </br>
 <b>Factorial</b><br>![Screenshot (106)](https://user-images.githubusercontent.com/99072350/161555512-8ba44487-57b2-49d1-b93b-5e01fac2dce4.png)
+  <br><b>Double decker factorial<b></br>![Screenshot (107)](https://user-images.githubusercontent.com/99072350/161560753-10b6a49f-19ad-41b4-bb31-409f935ee5fe.png)
+
 
